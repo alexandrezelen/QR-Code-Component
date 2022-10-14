@@ -10,4 +10,4 @@ Screenshot : images/screenshot.png
 
 ## Author
 
-- Twitter - [@alexandrezelen](https://www.twitter.com/alexandrezelen)
+- Twitter - [@alexandre_zelen](https://www.twitter.com/alexandre_zelen)
