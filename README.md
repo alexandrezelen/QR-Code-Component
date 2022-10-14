@@ -1,2 +1,13 @@
 # qr-component-code
-Created with CodeSandbox
+
+Screenshot : images/screenshot.png
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+## Author
+
+- Twitter - [@alexandrezelen](https://www.twitter.com/alexandrezelen)
